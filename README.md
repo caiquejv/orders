@@ -1,19 +1,9 @@
-<h1 align="center" style="font-weight: bold;">NLW Orders 💻</h1>
+<h1 align="center" style="font-weight: bold;">NLW Pré-Delivery 💻</h1>
 
-<p align="center">
- <a href="#tech">Technologies</a> • 
- <a href="#started">Getting Started</a> • 
-  <a href="#author">Author</a> •
- <a href="#contribute">Contribute</a>
+<p>
+    <b>Este projeto foi concebido e desenvolvido durante o evento NLW Expert, com o propósito de oferecer uma solução de pré-delivery direcionada especificamente para pequenos negócios. A iniciativa visa suprir as necessidades desses estabelecimentos, permitindo-lhes fornecer serviços de entrega sem enfrentar as altas taxas associadas a outros aplicativos de entrega presentes no mercado. Com um enfoque centrado na simplicidade e na eficiência, esta aplicação proporciona aos clientes a facilidade de realizar pedidos de forma rápida e descomplicada, enviando-os diretamente para o WhatsApp do estabelecimento.</b>
 </p>
 
-<p align="center">
-    <b>Esse é um dos projetos desenvolvidos em aula no evento NLW expert.</b>
-</p>
-
-<p align="center">
-     <a href="https://">📱 Visit this Project</a>
-</p>
 
 <h2 id="layout">🎨 Layout</h2>
 
