@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/126407ef-4c31-404d-af1d-fcbafae3e02b)
+![image](https://github.com/user-attachments/assets/bd93357b-e8cd-4170-b5b4-a52c87e3b422)
+
 
 # Orders - Solução de Pré-Delivery para Pequenos Negócios
 
